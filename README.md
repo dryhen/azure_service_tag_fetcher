@@ -1,0 +1,1 @@
+# azure_service_tag_fetcher
