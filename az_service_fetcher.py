@@ -55,5 +55,5 @@ for st in service_tags["values"]:
 try:
     os.remove(calculated_filename)
 except:
-    print(f'Faield to delete {calculated_filename}')
+    print(f'Failed to delete {calculated_filename}')
     exit(1)
